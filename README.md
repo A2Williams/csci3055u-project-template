@@ -1,7 +1,6 @@
-# _Your project title_
-
-- _your name_
-- _your email (uoit.net)_
+# A look at the RUST language 
+- Aaron Williams
+- aaronchristoph.williams@uoit.net
 
 ## About the language
 
