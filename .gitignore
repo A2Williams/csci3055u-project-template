@@ -1,3 +1,5 @@
 basic-syntax/hello_world
 standard-library/std_containers
 standard-library/std_io
+real-app/app/target/
+real-app/app/Cargo.lock
